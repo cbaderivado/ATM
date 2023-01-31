@@ -2,7 +2,12 @@
     ViewData["Title"] = "Home Page";
 }
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+<div class="container">
+    <h1 class="display-4">Bienvenido</h1>
+    <p>Ingrese los 16 digitos de su tarjeta de débito</a>.</p>
 </div>
+<div class="container">
+    <input class="form-control form-control-lg"  id="numeroTarjeta" type="number" placeholder="0000-0000-0000-0000" aria-label="N° tarjeta">
+    <input type="submit" value="Validate" onclick="return validarNroTarjeta()" />
+</div>
+

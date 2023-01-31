@@ -1,0 +1,43 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ATM/1.0.0": {
+        "dependencies": {
+          "bootstrap": "5.2.3",
+          "bootstrap.sass": "5.2.3"
+        },
+        "runtime": {
+          "ATM.dll": {}
+        }
+      },
+      "bootstrap/5.2.3": {},
+      "bootstrap.sass/5.2.3": {}
+    }
+  },
+  "libraries": {
+    "ATM/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "bootstrap/5.2.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-tZZrH4HdqBr/oeUlGoc2KliYlwXeN3qyhKgc1B5dc585+lnMkcD4A5yIX2NmNoXCCagQQiQGKn7A97sWoo2AOw==",
+      "path": "bootstrap/5.2.3",
+      "hashPath": "bootstrap.5.2.3.nupkg.sha512"
+    },
+    "bootstrap.sass/5.2.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Rt2sbo+Ajce8+OwQP/kHeLyaaL6JTYtxq57LFyVK1X7neRJJfgDb/rrBLGA1j7A1UcSEmnjGqwLCfsRKzhUPdA==",
+      "path": "bootstrap.sass/5.2.3",
+      "hashPath": "bootstrap.sass.5.2.3.nupkg.sha512"
+    }
+  }
+}

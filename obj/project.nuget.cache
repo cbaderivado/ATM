@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "5oL2qn7mKKE7olwAJqNlkDrAH/arYoI67o2WH8njAfJPXdAvz5/YjXA9w72gDeol1tSOaordGP4/Ikk+FoXMoQ==",
+  "dgSpecHash": "sLzplpBnI9dCwMstRvBm/iymIyDhK3b3vNLgMgoEIfQcSCPClIYjsed0Ze7bVbojv/l19Afg8CRZR3OimwBNiQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\LuchettaHectorSeba\\source\\repos\\ATM\\ATM.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\LuchettaHectorSeba\\.nuget\\packages\\bootstrap\\5.2.3\\bootstrap.5.2.3.nupkg.sha512",
+    "C:\\Users\\LuchettaHectorSeba\\.nuget\\packages\\bootstrap.sass\\5.2.3\\bootstrap.sass.5.2.3.nupkg.sha512"
+  ],
   "logs": []
 }

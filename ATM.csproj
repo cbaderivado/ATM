@@ -6,4 +6,16 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="bootstrap" Version="5.2.3" />
+    <PackageReference Include="bootstrap.sass" Version="5.2.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Dominio\" />
+    <Folder Include="Transporte\" />
+    <Folder Include="Persistencia\" />
+    <Folder Include="Servicios\" />
+  </ItemGroup>
+
 </Project>
